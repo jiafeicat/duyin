@@ -1,1 +1,29 @@
-# duyin
+## 程序员术语怎么读 你都会了吗? 
+术语	|	正确发音
+---|---
+Dubbo	|	/ˈdʌbəʊ/
+Linux	|	/ˈlɪnʌks/
+Kubernetes	|	/kubə'netis/
+.Net	|	/dɑ:t nɛt/
+Avatar	|	/ˌævə’tɑr/
+Safari	|	/səˈfɑːri/
+CentOS	|	/ˈsɛntəʊs/
+Debian	|	/ˈdɛbiən/
+Youtube	|	/tju:b/
+Ajax	|	/ˈeɪdʒæks/
+Grafana	|	/ˈɡræfɑnɑ/
+Putty	|	/'pʌti/
+Kindle	|	/'kindl/
+Fedora	|	/fi’dɔ:rə/
+Java	|	/ˈdʒɑːvə/
+App	|	/ˈæp/
+Nginx	|	/ˈɛndʒɪnˈeks/
+GIF	|	/dʒɪf/
+Cache	|	/kæʃ/
+Imgur	|	/ˈɪmədʒər/
+Adobe	|	/əˈdoʊbiː/
+GUI	|	/ˈɡui/
+Retina	|	/'retnə/
+Kinect	|	/kəˈnɛkt/
+Archive	|	/'ɑrkaɪv/
+Arduino	|	/ɑduˈɪnəʊ/
